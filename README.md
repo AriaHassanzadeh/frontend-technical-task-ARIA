@@ -26,7 +26,7 @@ This is a frontend application built for the technical task using React, TypeScr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AriaHassanzadeh/frontend-technical-task-ARIA.git
+git clone https://github.com/frontend-technical-task.git
 cd frontend-technical-task
 ```
 
